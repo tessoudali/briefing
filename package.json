@@ -39,7 +39,7 @@
     "@vueuse/core": "^10.2.1",
     "@zerva/core": "^0.32.0",
     "@zerva/http": "^0.32.0",
-    "@zerva/websocket": "^0.32.1",
+    "@zerva/websocket": "^0.34.0",
     "clipboard-copy": "^4.0.1",
     "lodash": "^4.17.21",
     "vue": "^3.3.4",
